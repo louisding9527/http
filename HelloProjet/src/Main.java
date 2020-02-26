@@ -5,5 +5,6 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
+		测试推送后, 其他账户拉取
     }
 }
